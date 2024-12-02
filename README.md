@@ -17,7 +17,22 @@ When I’m not snapping photos or coding, you’ll probably find me hanging out 
 </p>
 
 ---
+
 <br>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://inespalma">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inespalma&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+        </a>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inespalma&layout=compact&langs_count=7&theme=codeSTACKr"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Programming Languages -->
 <h2 align="left">Languages</h2>
@@ -42,4 +57,3 @@ When I’m not snapping photos or coding, you’ll probably find me hanging out 
 ![Figma](https://img.icons8.com/?size=42&id=zfHRZ6i1Wg0U&format=png&color=000000)
 ![Adobe Lightroom](https://img.icons8.com/?size=42&id=19313&format=png&color=000000)
 ![Adobe Photoshop](https://img.icons8.com/?size=42&id=13677&format=png&color=000000)
-
