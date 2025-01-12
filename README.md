@@ -54,16 +54,6 @@ When I’m not snapping photos or coding, you’ll probably find me hanging out 
 ![SQL](https://img.icons8.com/?size=42&id=39855&format=png&color=FFFFFF)
 ![MongoDB](https://img.icons8.com/color/48/mongo-db.png)
 
-<!-- Cloud Platforms -->
-<h2 align="left">Cloud Platforms</h2>
-
-![Azure](https://img.icons8.com/?size=42&id=S4wbdK79E23a&format=png&color=000000)
-
-<!--Version Control -->
-<h2 align="left">Version Control</h2>
-
-![Bitbucket](https://img.icons8.com/?size=42&id=iZTo5EQZtLKm&format=png&color=000000)
-
 <!--Design Tools -->
 <h2 align="left">Design Tools</h2>
 
@@ -76,8 +66,10 @@ When I’m not snapping photos or coding, you’ll probably find me hanging out 
 
 ![IntelliJ](https://img.icons8.com/?size=42&id=61466&format=png&color=000000)
 ![VisualStudioCode](https://img.icons8.com/?size=42&id=9OGIyU8hrxW5&format=png&color=000000)
+![Azure](https://img.icons8.com/?size=42&id=S4wbdK79E23a&format=png&color=000000)
+![Github](https://img.icons8.com/?size=42&id=SzgQDfObXUbA&format=png&color=000000)
+![Bitbucket](https://img.icons8.com/?size=42&id=iZTo5EQZtLKm&format=png&color=000000)
 ![Node](https://img.icons8.com/?size=42&id=54087&format=png&color=000000)
 ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/42/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
 ![Git](https://img.icons8.com/?size=42&id=20906&format=png&color=000000)
-![Github](https://img.icons8.com/?size=42&id=SzgQDfObXUbA&format=png&color=000000)
 
