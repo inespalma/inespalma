@@ -52,6 +52,8 @@ When I’m not snapping photos or coding, you’ll probably find me hanging out 
 <h2 align="left">Others</h2>
 
 ![Node](https://img.icons8.com/?size=42&id=54087&format=png&color=000000)
+![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/42/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
+![MongoDB](https://img.icons8.com/color/48/mongo-db.png)
 ![Azure](https://img.icons8.com/?size=42&id=S4wbdK79E23a&format=png&color=000000)
 ![Bitbucket](https://img.icons8.com/?size=42&id=iZTo5EQZtLKm&format=png&color=000000)
 ![Figma](https://img.icons8.com/?size=42&id=zfHRZ6i1Wg0U&format=png&color=000000)
