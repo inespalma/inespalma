@@ -74,6 +74,8 @@ When I’m not snapping photos or coding, you’ll probably find me hanging out 
 <!-- Other Tools and Technologies -->
 <h2 align="left">Other Tools and Technologies</h2>
 
+![IntelliJ](https://img.icons8.com/?size=42&id=61466&format=png&color=000000)
+![VisualStudioCode](https://img.icons8.com/?size=42&id=9OGIyU8hrxW5&format=png&color=000000)
 ![Node](https://img.icons8.com/?size=42&id=54087&format=png&color=000000)
 ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/42/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
 ![Git](https://img.icons8.com/?size=42&id=20906&format=png&color=000000)
